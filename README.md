@@ -10,3 +10,4 @@ My solutions to LeetCode Problems
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [JavaScript](./Algorithms/NimGame.js) |Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)  | [JavaScript](./Algorithms/AddDigits.js) |Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)  | [JavaScript](./Algorithms/SingleNumber.js) |Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [JavaScript](./Algorithms/MaxDepthOfBinaryTree.js) |Easy|
