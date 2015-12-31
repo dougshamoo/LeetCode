@@ -15,3 +15,4 @@ My solutions to LeetCode Problems
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)  | [JavaScript](./Algorithms/ValidAnagram.js) |Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [JavaScript](./Algorithms/ContainsDuplicate.js) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)  | [JavaScript](./Algorithms/MajorityElement.js) |Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | [JavaScript](./Algorithms/ReverseLinkedList.js) |Easy|
