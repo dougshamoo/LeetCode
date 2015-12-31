@@ -17,3 +17,4 @@ My solutions to LeetCode Problems
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)  | [JavaScript](./Algorithms/MajorityElement.js) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | [JavaScript](./Algorithms/ReverseLinkedList.js) |Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)  | [JavaScript](./Algorithms/HappyNumber.js) |Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)  | [JavaScript](./Algorithms/PlusOne.js) |Easy|
