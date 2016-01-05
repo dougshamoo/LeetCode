@@ -13,12 +13,12 @@ Minimize the total number of operations.
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var moveZeroes = function(nums) {
-    var count = 0;
-    for (var i=0; i < nums.length - count; i++) {
-        if (nums[i] === 0) {
-            count++;
-            nums.splice(i--, 1);
-            nums.push(0);
-        }
+  var count = 0;
+  for (var i=0; i < nums.length - count; i++) {
+    if (nums[i] === 0) {
+      count++;
+      nums.splice(i--, 1);
+      nums.push(0);
     }
+  }
 };
