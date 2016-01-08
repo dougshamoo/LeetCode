@@ -20,3 +20,4 @@ My solutions to LeetCode Problems
 |66|[Plus One](https://leetcode.com/problems/plus-one/)  | [JavaScript](./Algorithms/PlusOne.js) |Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [JavaScript](./Algorithms/PalindromeNumber.js) |Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [JavaScript](./Algorithms/MoveZeroes.js) |Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)  | [JavaScript](./Algorithms/PowerOfTwo.js) |Easy|
