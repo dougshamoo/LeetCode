@@ -23,3 +23,4 @@ My solutions to LeetCode Problems
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)  | [JavaScript](./Algorithms/PowerOfTwo.js) |Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)  | [JavaScript](./Algorithms/PowerOfThree.js) |Easy|
 |326|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  | [JavaScript](./Algorithms/NumberOf1Bits.js) |Easy|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [JavaScript](./Algorithms/OddEvenLinkedList.js) |Easy|
