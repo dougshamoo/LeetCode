@@ -25,3 +25,4 @@ My solutions to LeetCode Problems
 |326|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  | [JavaScript](./Algorithms/NumberOf1Bits.js) |Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [JavaScript](./Algorithms/OddEvenLinkedList.js) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [JavaScript](./Algorithms/RemoveDuplicatesFromSortedList.js) |Easy|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)  | [JavaScript](./Algorithms/WordPattern.js) |Easy|
