@@ -26,3 +26,4 @@ My solutions to LeetCode Problems
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [JavaScript](./Algorithms/OddEvenLinkedList.js) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [JavaScript](./Algorithms/RemoveDuplicatesFromSortedList.js) |Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)  | [JavaScript](./Algorithms/WordPattern.js) |Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  | [JavaScript](./Algorithms/InvertBinaryTree.js) |Easy|
