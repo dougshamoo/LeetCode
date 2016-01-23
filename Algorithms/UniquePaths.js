@@ -17,7 +17,7 @@ Note: m and n will be at most 100.
  * @return {number}
  */
 
-// TODO: try a DP solution, this one is too slow
+// naive recursive solution without DP or memoization... too slow
 var uniquePaths = function(m, n) {
   var count = 0;
   
@@ -34,4 +34,23 @@ var uniquePaths = function(m, n) {
   
   genPaths(0, 0);
   return count;
+};
+
+var uniquePaths = function(m, n) {
+  var cache = [[1]];
+  
+  function countPaths(i, j) {
+    if (cache[i] === undefined) cache[i] = [];
+    if (cache[i][j] !== undefined) {
+      return cache[i][j];
+    }
+    if (i === 0 || j === 0) {
+      cache[i][j] = 1;
+      return 1;
+    }
+    cache[i][j] = countPaths(i-1, j) + countPaths(i, j-1);
+    return cache[i][j];
+  }
+  
+  return countPaths(m-1, n-1);
 };

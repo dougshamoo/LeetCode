@@ -27,3 +27,4 @@ My solutions to LeetCode Problems
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [JavaScript](./Algorithms/RemoveDuplicatesFromSortedList.js) |Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)  | [JavaScript](./Algorithms/WordPattern.js) |Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  | [JavaScript](./Algorithms/InvertBinaryTree.js) |Easy|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)  | [JavaScript](./Algorithms/UniquePaths.js) |Medium|
