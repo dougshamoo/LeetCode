@@ -16,9 +16,6 @@ var missingNumber = function(nums) {
   var targetSum = 0;
   var sum = 0;
 
-  // handles array of [0] or [1]
-  if (nums.length === 1) return 1 - nums[0];
-
   // calculate sum and targetSum
   for (var i = 0; i < nums.length; i++) {
     targetSum += i;
