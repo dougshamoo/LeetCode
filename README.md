@@ -28,5 +28,6 @@ My solutions to LeetCode Problems
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)  | [JavaScript](./Algorithms/WordPattern.js) |Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  | [JavaScript](./Algorithms/InvertBinaryTree.js) |Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  | [JavaScript](./Algorithms/RemoveLinkedListElements.js) |Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [JavaScript](./Algorithms/MergeTwoSortedLists.js) |Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)  | [JavaScript](./Algorithms/UniquePaths.js) |Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)  | [JavaScript](./Algorithms/MissingNumber.js) |Medium|
