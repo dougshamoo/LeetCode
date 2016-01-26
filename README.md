@@ -31,5 +31,6 @@ My solutions to LeetCode Problems
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [JavaScript](./Algorithms/MergeTwoSortedLists.js) |Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)  | [JavaScript](./Algorithms/UglyNumber.js) |Easy|
 |232|[Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  | [JavaScript](./Algorithms/ImplementQueueUsingStacks.js) |Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)  | [JavaScript](./Algorithms/RemoveElement.js) |Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)  | [JavaScript](./Algorithms/UniquePaths.js) |Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)  | [JavaScript](./Algorithms/MissingNumber.js) |Medium|
