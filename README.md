@@ -30,5 +30,6 @@ My solutions to LeetCode Problems
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  | [JavaScript](./Algorithms/RemoveLinkedListElements.js) |Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [JavaScript](./Algorithms/MergeTwoSortedLists.js) |Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)  | [JavaScript](./Algorithms/UglyNumber.js) |Easy|
+|232|[Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  | [JavaScript](./Algorithms/ImplementQueueUsingStacks.js) |Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)  | [JavaScript](./Algorithms/UniquePaths.js) |Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)  | [JavaScript](./Algorithms/MissingNumber.js) |Medium|
