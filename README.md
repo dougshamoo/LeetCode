@@ -34,5 +34,6 @@ My solutions to LeetCode Problems
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)  | [JavaScript](./Algorithms/RemoveElement.js) |Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [JavaScript](./Algorithms/ClimbingStairs.js) |Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)  | [JavaScript](./Algorithms/SameTree.js) |Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [JavaScript](./Algorithms/RemoveDuplicatesFromSortedArray.js) |Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)  | [JavaScript](./Algorithms/UniquePaths.js) |Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)  | [JavaScript](./Algorithms/MissingNumber.js) |Medium|
