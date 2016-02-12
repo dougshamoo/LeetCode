@@ -41,3 +41,4 @@ My solutions to LeetCode Problems
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)  | [JavaScript](./Algorithms/UniquePaths.js) |Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)  | [JavaScript](./Algorithms/MissingNumber.js) |Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)  | [JavaScript](./Algorithms/Permutations.js) |Medium|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)  | [JavaScript](./Algorithms/BulbSwitcher.js) |Medium|
