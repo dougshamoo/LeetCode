@@ -43,3 +43,4 @@ My solutions to LeetCode Problems
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)  | [JavaScript](./Algorithms/MissingNumber.js) |Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)  | [JavaScript](./Algorithms/Permutations.js) |Medium|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)  | [JavaScript](./Algorithms/BulbSwitcher.js) |Medium|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)  | [JavaScript](./Algorithms/SingleNumberIII.js) |Medium|
