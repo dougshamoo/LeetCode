@@ -37,6 +37,7 @@ My solutions to LeetCode Problems
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [JavaScript](./Algorithms/RemoveDuplicatesFromSortedArray.js) |Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | [JavaScript](./Algorithms/BinaryTreeLevelOrderTraversal.js) |Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  | [JavaScript](./Algorithms/LengthOfLastWord.js) |Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)  | [JavaScript](./Algorithms/ImplementStrStr.js) |Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)  | [JavaScript](./Algorithms/ImplementStackUsingQueues.js) |Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)  | [JavaScript](./Algorithms/UniquePaths.js) |Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)  | [JavaScript](./Algorithms/MissingNumber.js) |Medium|
