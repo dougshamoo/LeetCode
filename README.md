@@ -41,6 +41,7 @@ My solutions to LeetCode Problems
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)  | [JavaScript](./Algorithms/ImplementStackUsingQueues.js) |Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [JavaScript](./Algorithms/BinaryTreeLevelOrderTraversalII.js) |Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)  | [JavaScript](./Algorithms/MinStack.js) |Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [JavaScript](./Algorithms/BullsAndCows.js) |Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)  | [JavaScript](./Algorithms/UniquePaths.js) |Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)  | [JavaScript](./Algorithms/MissingNumber.js) |Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)  | [JavaScript](./Algorithms/Permutations.js) |Medium|
